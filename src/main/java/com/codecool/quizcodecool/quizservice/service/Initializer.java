@@ -14,7 +14,6 @@ import java.util.Arrays;
 import java.util.List;
 
 @Service
-@Profile("production")
 public class Initializer {
 
     @Autowired
